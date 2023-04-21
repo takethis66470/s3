@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
