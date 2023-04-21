@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
