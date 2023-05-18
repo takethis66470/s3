@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add plot_images conf_thresh parameter (#8446)
