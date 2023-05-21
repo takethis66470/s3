@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix Neural Magic links (#9144)
