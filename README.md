@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Fix Yolo 8.0.206 scale bug (#7821)
