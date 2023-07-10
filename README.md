@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add quantization support to TensorFlow.js converter (#7008)
