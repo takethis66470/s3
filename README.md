@@ -1,1 +1,1 @@
-added badges (#45)
+Remove JAX constraints in Exporter (#8309)
