@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Compare plt.get_backend() in lowercase (#8409)
