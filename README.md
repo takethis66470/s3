@@ -1,1 +1,1 @@
-fix print val map
+Remove unused variables (#8511)
