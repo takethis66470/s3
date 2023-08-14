@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
