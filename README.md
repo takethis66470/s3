@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+New HUB Cloud Training docs page (#8174)
