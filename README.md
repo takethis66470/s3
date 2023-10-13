@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
