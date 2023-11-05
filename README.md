@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update mkdocs.yml (#7693)
