@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix TypeError in check_cfg() (#9245)
