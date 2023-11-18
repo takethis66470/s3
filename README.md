@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add HUB-SDK Docs reference section (#7781)
