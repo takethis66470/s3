@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+OBB: Fix plot_images (#7592)
