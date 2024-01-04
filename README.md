@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
