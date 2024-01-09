@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
