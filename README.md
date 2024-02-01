@@ -1,1 +1,1 @@
-fix predict with class filter
+Improve Docs arguments tables (#8415)
