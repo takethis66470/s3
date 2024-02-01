@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add horizontal Mosaic3 augmentation (#6898)
