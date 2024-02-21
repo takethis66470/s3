@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Fix PIL show() and save() (#8202)
