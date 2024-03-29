@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Fix TypeError in check_cfg() (#9245)
