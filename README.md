@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
