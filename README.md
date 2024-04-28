@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
