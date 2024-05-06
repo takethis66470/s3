@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
