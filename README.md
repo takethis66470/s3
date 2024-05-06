@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
