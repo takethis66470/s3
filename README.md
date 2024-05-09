@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
