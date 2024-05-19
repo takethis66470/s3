@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
