@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix heatmaps width-height order bug (#7184)
