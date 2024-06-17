@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix PNNX ubuntu -> linux bug (#7050)
