@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
