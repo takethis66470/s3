@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
