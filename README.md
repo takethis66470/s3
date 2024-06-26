@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add C++ Classify inference example (#6868)
