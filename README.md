@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Clean up unused imgsz (#7771)
