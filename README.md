@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add Weights & Biases Docs integrations page (#7199)
