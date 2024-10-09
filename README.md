@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
