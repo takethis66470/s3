@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
