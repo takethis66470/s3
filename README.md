@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
