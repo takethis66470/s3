@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add YOLOv8 LibTorch C++ inference example (#7090)
